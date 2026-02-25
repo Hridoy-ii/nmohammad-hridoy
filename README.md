@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%9A%80+MERN+Stack+Developer;%F0%9F%92%BB+Scalable+Web+App+Builder;%F0%9F%94%90+REST+API+Auth+Specialist;%F0%9F%8C%8D+Open+to+Full-Time+%7C+Remote+Work+%7C+Freelance+Projects)](https://git.io/typing-svg)/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%9A%80+MERN+Stack+Developer;%F0%9F%92%BB+Scalable+Web+App+Builder;%F0%9F%94%90+REST+API+Auth+Specialist;%F0%9F%8C%8D+Open+to+Full-Time+%7C+Remote+Work+%7C+Freelance+Projects)](https://git.io/typing-svg)
 
 </div>
 

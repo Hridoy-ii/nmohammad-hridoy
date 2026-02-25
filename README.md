@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=900&color=A371F7&center=true&vCenter=true&width=550&lines=🚀+MERN+Stack+Developer;💻+Scalable+Web+App+Builder;🔐+REST+API+%26+Auth+Specialist;🌍+Open+to+Full-Time+%26+Remote+Work" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%9A%80+MERN+Stack+Developer;%F0%9F%92%BB+Scalable+Web+App+Builder;%F0%9F%94%90+REST+API+Auth+Specialist;%F0%9F%8C%8D+Open+to+Full-Time+%7C+Remote+Work+%7C+Freelance+Projects)](https://git.io/typing-svg)/>
 
 </div>
 

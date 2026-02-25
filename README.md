@@ -16,29 +16,30 @@
 
 ## 🚀 About Me
 I am a **Passionate Full-Stack MERN Developer** who enjoys transforming complex problems into scalable and secure web applications. I specialize in building production-ready REST APIs, dynamic React interfaces, and optimized MongoDB databases.
-<table>
+<table width="100%">
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-**⚡ What I Do**
+### ⚡ What I Do
 
-🔨 &nbsp;Production-ready REST APIs  
-⚛️ &nbsp;Dynamic React interfaces  
-🗄️ &nbsp;Optimized MongoDB databases  
-🔐 &nbsp;Secure auth system design  
-
-</td>
-<td valign="top" width="50%">
-
-**🎯 Current Goals**
-
-🏗️ &nbsp;Master advanced backend scalability  
-📐 &nbsp;Deep dive into system design  
-🤝 &nbsp;Contribute to open-source projects  
-🔬 &nbsp;Explore microservices architecture  
-📘 &nbsp;Learn TypeScript for production  
+- 🔨 Production-ready REST APIs  
+- ⚛️ Dynamic React interfaces  
+- 🗄️ Optimized MongoDB databases  
+- 🔐 Secure authentication system design  
 
 </td>
+
+<td width="50%" valign="top">
+
+### 🎯 Current Goals
+
+- 🏗️ Master advanced backend scalability  
+- 📐 Deep dive into system design  
+- 🔬 Explore microservices architecture  
+- 📘 Learn TypeScript for production  
+
+</td>
+</tr>
 </table>
 
 ---
